@@ -50,7 +50,7 @@ Git • GitHub • VS Code • GitHub Pages • Figma
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hriday-sharma)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hriday-sharma-784942372/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white)](https://hridayyyyyyy.github.io)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hridayyyy_)  
 📧 Email: hridaysharma2005@gmail.com
