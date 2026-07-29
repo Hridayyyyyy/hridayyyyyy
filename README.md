@@ -77,12 +77,11 @@ me = HridaySharma()
 ```
 
 </td>
-
-![Uploading Work Coding GIF by Scaler.gif…]()
-
-
 </tr>
 </table>
+
+<img width="220" height="220" alt="Work Coding GIF by Scaler" src="https://github.com/user-attachments/assets/555b4745-2a90-45b3-a0b4-15f51547ff07" />
+
 
 ---
 
