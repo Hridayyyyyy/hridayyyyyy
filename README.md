@@ -1,56 +1,132 @@
-# 👋 Hey, I'm Hriday Sharma!
-
-🎨 Front-End Developer | 📊 Aspiring Data Scientist | 🧑‍💻 Creative Coder | 🇮🇳 India
-
-I love crafting interactive web experiences and exploring data through code. From beautiful UI to deep insights, I bring design and data together.
-
----
-
-## 👤 About Me
-- 🔭 Currently building my [portfolio website](https://hridayyyyyyy.github.io)
-- 💡 Passionate about creative coding, UI/UX, and data visualization
-- 📈 Aspiring data scientist with a knack for telling stories with data
-- ⚡ Fun fact: I enjoy turning numbers into visuals and ideas into interfaces!
+<h1 align="center">Hi 👋, I'm Hriday Sharma</h1>
+🤖 Machine Learning Engineer;
+📊 Data Scientist;
+🐍 Python Developer;
+🧠 AI Enthusiast
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=🤖+Machine+Learning+Engineer;📊+Data+Scientist;🐍+Python+Developer;🧠+AI+Enthusiast;🚀+Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Frontend:
-HTML • CSS • JavaScript • React • Tailwind CSS • Spline 3D • GSAP
+- 🎓 BCA Student
+- 🤖 Aspiring Machine Learning Engineer
+- 📊 Passionate about Data Science & Artificial Intelligence
+- 💻 Currently learning TensorFlow, Deep Learning & Computer Vision
+- 🌱 Exploring MLOps, NLP and Generative AI
+- 🎯 Goal: Become a Machine Learning Engineer in the UK
 
-### 📊 Data & Analytics:
-Power BI • Excel • MySQL • Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+---
 
-### 🔧 Tools & Platforms:
-Git • GitHub • VS Code • GitHub Pages • Figma
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+</p>
+
+### 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- OpenCV
+- SQL
+- Power BI
+- Excel
+
+---
+
+## 📂 Featured Projects
+
+### 🌿 Plant Disease Detection
+CNN model for identifying potato plant diseases using TensorFlow.
+
+### 💳 Credit Card Fraud Detection
+Machine Learning model using classification algorithms.
+
+### 😊 Face Mask Detection
+Computer Vision project using OpenCV.
+
+### 📈 House Price Prediction
+Regression model for predicting house prices.
+
+### 🎬 Movie Recommendation System
+Recommendation engine using collaborative filtering.
+
+---
+
+## 📜 Certifications
+
+- Google Machine Learning Certificate
+- IBM Data Science Professional Certificate *(Coming Soon)*
+- TensorFlow Developer *(Coming Soon)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hriday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridayyyyy&show_icons=true&theme=react&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayyyyy&layout=compact&theme=react)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hridayyyyyy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayyyyyy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridayyyyyy&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hridayyyyy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hridayyyyyy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
-## 🎯 Goals for 2025
-- ✨ Build more projects combining frontend + data science
-- 🧪 Master machine learning foundations
-- 🌐 Contribute to open-source projects and communities
-- 🚀 Expand my portfolio with dashboards and interactive apps
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Hridayyyyyy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
-## 📬 Connect With Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hriday-sharma-784942372/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white)](https://hridayyyyyyy.github.io)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hridayyyy_)  
-📧 Email: hridaysharma2005@gmail.com
+⭐️ If you like my work, consider starring my repositories.
+
+</p>
