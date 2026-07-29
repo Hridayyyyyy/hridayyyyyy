@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hriday Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=FF5555&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;AI+%26+Data+Science+Enthusiast;Building+AI+that+solves+real-world+problems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=BB86FC&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;AI+%26+Data+Science+Enthusiast;Building+AI+that+solves+real-world+problems"/>
 
 <img src="https://img.shields.io/badge/BUILDING-AI%20THAT%20SOLVES%20REAL%20PROBLEMS-007ACC?style=for-the-badge"/>
 
