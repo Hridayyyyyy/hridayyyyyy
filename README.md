@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hriday Sharma</h1>
+<h1 align="center">
+  Hi 👋, I'm Hriday Sharma
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%3E-Building%20AI%20that%20solves%20real%20problems-1a1b27?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%3E-BUILDING%20AI%20THAT%20SOLVES%20REAL%20PROBLEMS-1E1E2E?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2D2D2D" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;AI+Engineer;Computer+Vision+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&height=60&lines=Machine+Learning+Engineer;Data+Scientist;Computer+Vision+Developer;Deep+Learning+Enthusiast;Building+AI+That+Matters" />
 </p>
