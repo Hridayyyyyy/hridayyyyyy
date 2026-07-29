@@ -148,8 +148,6 @@ me = HridaySharma()
 - ✅ Learn Deep Learning
 - ✅ Build Computer Vision Applications
 - ✅ Deploy ML Models
-- ✅ Land an ML Engineer Internship
-- ✅ Complete MSc in Data Science & AI
 
 ---
 
