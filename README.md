@@ -78,11 +78,8 @@ me = HridaySharma()
 
 </td>
 
-<td width="45%" align="center">
+![Uploading Work Coding GIF by Scaler.gif…]()
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTUyanVpNm5pN3RybXg5Z3lkYjgxMGI2b3I5ZmRmam90YTQ1cjNsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG41T9/giphy.gif" width="100%"/>
-
-</td>
 
 </tr>
 </table>
