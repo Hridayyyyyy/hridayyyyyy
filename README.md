@@ -61,7 +61,7 @@ me = HridaySharma()
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/555b4745-2a90-45b3-a0b4-15f51547ff07" width="95%"/>
+<img width="200" height="161" alt="dd2eb3427fc9b7eddf09ea0306e68b6f5fbd5563f42a6ad0e58ddfdd067ee0d0" src="https://github.com/user-attachments/assets/0fb49310-b81f-46e1-ac70-d7d65f5ae8bc" />
 
 </td>
 
