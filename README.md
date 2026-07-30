@@ -75,7 +75,7 @@ me = HridaySharma()
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🤖 AI Fraud Detection System | AI-powered fraud detection system with real-time analytics, explainable AI, and anomaly detection | Python • Scikit-Learn • Streamlit |
-| 🌱 Plant Disease Detection | CNN-based computer vision model for automatic plant disease classification using leaf images | TensorFlow • OpenCV |
+| 🌱 Tomato Leaf Disease Detection | CNN-based computer vision model for automatic tomato leaf disease classification using TensorFlow and Keras. | TensorFlow •  |
 | 👥 Customer Churn Prediction | Machine learning model that predicts customer churn, identifies risk factors, and segments customers for retention | Python • Scikit-Learn • Pandas |
 | 🎵 Spotify Analytics Dashboard | Interactive Power BI dashboard analyzing artists, albums, streaming trends, and user listening behavior | Power BI |
 | 🍎 Apple Music Analytics Dashboard | Power BI dashboard visualizing Apple Music metrics, trends, and business insights | Power BI |
