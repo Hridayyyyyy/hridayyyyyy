@@ -81,6 +81,7 @@ me = HridaySharma()
 | 🍎 Apple Music Analytics Dashboard | Power BI dashboard visualizing Apple Music metrics, trends, and business insights | Power BI |
 | 💰 Financial Sales Dashboard | Interactive dashboard analyzing sales, profit, discounts, product performance, and regional trends | Power BI |
 | 🍕 Pizza Sales Analysis | SQL project analyzing revenue, order trends, customer purchasing behavior, and best-selling pizzas using SQL | SQL • MySQL |
+| 📺 Netflix Dashboard | Interactive Excel dashboard analyzing Netflix content, genres, ratings, release trends, and content distribution. | Microsoft Excel |
 
 ---
 
