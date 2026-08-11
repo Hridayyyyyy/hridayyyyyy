@@ -76,6 +76,7 @@ me = HridaySharma()
 |---|---|---|
 | 🤖 AI Fraud Detection System | AI-powered fraud detection system with real-time analytics, explainable AI, and anomaly detection | Python • Scikit-Learn • Streamlit |
 | 🌱 Tomato Leaf Disease Detection | CNN-based computer vision model for automatic tomato leaf disease classification using TensorFlow and Keras. | TensorFlow • CNN |
+| 🖼️ CIFAR-10 CNN Image Classification | CNN-based image classification model trained on the CIFAR-10 dataset to classify images into 10 categories. | TensorFlow • Keras • CNN • Python
 | 🫁 Pneumonia Detection | Transfer-learning based chest X-ray classification using VGG16, with data augmentation, class weighting, fine-tuning, and model evaluation | Python • TensorFlow • Keras • VGG16 |
 | 👥 Customer Churn Prediction | Machine learning model that predicts customer churn, identifies risk factors, and segments customers for retention | Python • Scikit-Learn • Pandas |
 | 🍕 Pizza Sales Analysis | SQL project analyzing revenue, order trends, customer purchasing behavior, and best-selling pizzas using SQL | SQL • MySQL |
