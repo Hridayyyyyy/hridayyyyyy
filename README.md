@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;AI+%26+Data+Science+Enthusiast;Building+AI+that+solves+real-world+problems"/>
 
-<img width="480" height="270" alt="programming GIF" src="https://github.com/user-attachments/assets/7e383fe1-b478-4bf2-a5ef-2a18d611f815" />
+
 
 
 </div>
@@ -62,7 +62,7 @@ me = HridaySharma()
 
 <td width="40%" align="center" valign="middle">
 
-<img width="200" height="161" alt="dd2eb3427fc9b7eddf09ea0306e68b6f5fbd5563f42a6ad0e58ddfdd067ee0d0" src="https://github.com/user-attachments/assets/0fb49310-b81f-46e1-ac70-d7d65f5ae8bc" />
+<img width="480" height="270" alt="programming GIF" src="https://github.com/user-attachments/assets/7e383fe1-b478-4bf2-a5ef-2a18d611f815" />
 
 </td>
 
