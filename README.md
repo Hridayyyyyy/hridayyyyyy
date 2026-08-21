@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;AI+%26+Data+Science+Enthusiast;Building+AI+that+solves+real-world+problems"/>
 
-<img src="https://img.shields.io/badge/BUILDING-AI%20THAT%20SOLVES%20REAL%20PROBLEMS-007ACC?style=for-the-badge"/>
+<img width="480" height="270" alt="programming GIF" src="https://github.com/user-attachments/assets/7e383fe1-b478-4bf2-a5ef-2a18d611f815" />
+
 
 </div>
 
